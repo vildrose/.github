@@ -1,0 +1,1 @@
+Vildrose is the umbrella project and organization governing vildrose-core, hyldeblomst, vildcode, vildlang, anemone, nemunas and other projects. The goal of vildrose is to research ternary and non-binary computing platforms, "abnormal" target platforms and how programming can be simplified within them.
